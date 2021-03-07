@@ -8,5 +8,5 @@ class pepole{
     };
 };
 
-const fahim = new pepole('Fahim','Uddin',01704880254, 13000);
+const fahim = new pepole('Fahim','Uddin',880254, 13000);
 console.log(fahim);
